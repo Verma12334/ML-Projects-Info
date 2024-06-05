@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saura/OneDrive/Desktop/ML%20-%20ProJects/mlruns/0/2e5c821150bd4e9797f1da2a2055a7a5/artifacts
+end_time: 1717581903961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e5c821150bd4e9797f1da2a2055a7a5
+run_name: adorable-swan-624
+run_uuid: 2e5c821150bd4e9797f1da2a2055a7a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717581900843
+status: 3
+tags: []
+user_id: root
