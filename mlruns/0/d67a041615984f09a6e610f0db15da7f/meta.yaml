@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saura/OneDrive/Desktop/ML%20-%20ProJects/mlruns/0/d67a041615984f09a6e610f0db15da7f/artifacts
+end_time: 1717594169393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d67a041615984f09a6e610f0db15da7f
+run_name: smiling-trout-38
+run_uuid: d67a041615984f09a6e610f0db15da7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717594166726
+status: 3
+tags: []
+user_id: root
