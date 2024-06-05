@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saura/OneDrive/Desktop/ML%20-%20ProJects/mlruns/0/fe75e9da000b42b1a3800699162ff14c/artifacts
+end_time: 1717576091189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe75e9da000b42b1a3800699162ff14c
+run_name: placid-mink-304
+run_uuid: fe75e9da000b42b1a3800699162ff14c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717576087369
+status: 3
+tags: []
+user_id: root

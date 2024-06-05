@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saura/OneDrive/Desktop/ML%20-%20ProJects/mlruns/0/411666d9c0b64c4eb5918f6ff983bc92/artifacts
+end_time: 1717576200276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 411666d9c0b64c4eb5918f6ff983bc92
+run_name: bold-frog-856
+run_uuid: 411666d9c0b64c4eb5918f6ff983bc92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717576197425
+status: 3
+tags: []
+user_id: root

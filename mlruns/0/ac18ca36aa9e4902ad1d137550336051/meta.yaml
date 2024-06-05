@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saura/OneDrive/Desktop/ML%20-%20ProJects/mlruns/0/ac18ca36aa9e4902ad1d137550336051/artifacts
+end_time: 1717579305652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac18ca36aa9e4902ad1d137550336051
+run_name: smiling-midge-314
+run_uuid: ac18ca36aa9e4902ad1d137550336051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717579302939
+status: 3
+tags: []
+user_id: root
