@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saura/OneDrive/Desktop/ML%20-%20ProJects/mlruns/0/d2e86fdce11d4669938bfb0f2a9a3acc/artifacts
+end_time: 1717599919206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2e86fdce11d4669938bfb0f2a9a3acc
+run_name: upbeat-cow-183
+run_uuid: d2e86fdce11d4669938bfb0f2a9a3acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717599914119
+status: 3
+tags: []
+user_id: root

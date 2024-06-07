@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/saura/OneDrive/Desktop/ML%20-%20ProJects/mlruns/0/07bca0d37deb40e28676316260d15b79/artifacts
+end_time: 1717599507292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07bca0d37deb40e28676316260d15b79
+run_name: kindly-worm-691
+run_uuid: 07bca0d37deb40e28676316260d15b79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717599500738
+status: 3
+tags: []
+user_id: root
